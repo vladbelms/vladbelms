@@ -1,13 +1,10 @@
 ### Hello 🐣
-I am Machine Learning Engineer with hands-on experience in machine learning projects: classic ml(tabular data), deep learning(images, text). Large experience working with processing BigData and building robust machine learning models on it. Have nice background in Computer Vision and NLP. I like to train deep neural nets on large amounts of data and bringing value with money to business.
-<div r style="display: inline-block; justify-content: space-evenly;">
-  <img src="https://github.com/vladbelms/vladbelms/blob/main/bibiziana.gif?raw=true" align="left" width="170">
-  <img src="https://github.com/vladbelms/vladbelms/blob/main/wolf_of_wall_street.gif?raw=true" align="right" width="300">
-</div>
-<br>
-<br>
-<br>
+<img src="https://github.com/vladbelms/vladbelms/blob/main/bibiziana.gif?raw=true" width="170" style="float: left; margin-right: 15px; margin-bottom: 5px;">
+<img src="https://github.com/vladbelms/vladbelms/blob/main/wolf_of_wall_street.gif?raw=true" width="300" style="float: right; margin-left: 15px; margin-bottom: 5px;">
 
+I am Machine Learning Engineer with hands-on experience in machine learning projects: classic ml(tabular data), deep learning(images, text). Large experience working with processing BigData and building robust machine learning models on it. Have nice background in Computer Vision and NLP. I like to train deep neural nets on large amounts of data and bringing value with money to business.
+
+<br style="clear: both;">
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-belmach-62aa7b263/) &emsp;
