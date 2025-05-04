@@ -5,7 +5,8 @@ I am Machine Learning Engineer with hands-on experience in machine learning proj
   <img src="https://github.com/vladbelms/vladbelms/blob/main/wolf_of_wall_street.gif?raw=true" align="right" width="300">
 </div>
 <br>
-
+<br>
+<br>
 
 
 ## Social Media
