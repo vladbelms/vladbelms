@@ -1,39 +1,18 @@
-# Greetings, Earthlings! 👾
+### Hello 🐣
+I am Machine Learning Engineer with hands-on experience in machine learning projects: classic ml(tabular data), deep learning(images, text). Large experience working with processing BigData and building robust machine learning models on it. Have nice background in Computer Vision and NLP. I like to train deep neural nets on large amounts of data and bringing value with money to business.
+<div r style="display: inline-block; justify-content: space-evenly;">
+  <img src="https://github.com/vladbelms/vladbelms/blob/master/bibiziana.gif?raw=true" align="right" width="170">
+  <img src="https://github.com/vladbelms/vladbelms/blob/master/wolf_of_wall_street.gif?raw=true" align="left" width="170">
+</div>
+<br>
 
-Hello there! I'm **Vlad** – a creative coder, tech explorer, and coke enthusiast on a quest to turn ideas into reality. I blend art and technology to craft innovative solutions that make the digital world a little more magical.
 
----
 
-## 🚀 About Me
-
-I'm currently immersed in the fascinating world of **Machine Learning** and data-driven solutions. As an aspiring ML Engineer, I am passionate about leveraging data to solve real-world problems. Whether it's training neural networks or fine-tuning algorithms, I'm all about turning complex data into actionable insights.
-
-- **Current Focus:** Deep diving into Machine Learning algorithms and neural network architectures.
-- **Learning Journey:** Strengthening my skills in PyTorch
-- **Hobbies:** Lifting weights at the gym, optimizing both my body and mind. When I’m not coding, you’ll find me reading books.
-
----
-
-## 🛠️ My Toolbox
-
-Here are some of the key technologies and tools that I'm working with on my ML journey:
-
-- **Languages:** Python, C++
-- **ML Frameworks & Libraries:** PyTorch, Pandas, NumPy, Matplotlib
-- **Other:** Jupyter Notebook, Git, SQL
-
----
-
-## 💬 Let's Connect
-
-I'm always excited to meet fellow enthusiasts, collaborators, and curious minds! Here’s how you can reach me:
-
-- **Email:** [vladbelms@gmail.com](mailto:vladbelms@gmail.com)
-- **Telegram:** [@vlad_sigma_gucci](https://t.me/vlad_sigma_gucci)
-- **LinkedIn:** [Vlad Belmach](https://www.linkedin.com/in/vlad-belmach-62aa7b263/)
-
-Feel free to drop a line, share your favorite meme, or discuss the latest in tech trends!
-
----
-
-_Keep coding, keep dreaming, and may the code be with you!_
+## Social Media
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-belmach-62aa7b263/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladbelms@gmail.com) &emsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad0110100) &emsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/terring/) &emsp;
+<br>
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/terring)](https://leetcode.com/u/terring/)
